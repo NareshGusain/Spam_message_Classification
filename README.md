@@ -11,19 +11,18 @@ This web application provides a user-friendly interface for classifying SMS mess
 ## Getting Started
 
 To run this web app locally on your machine, follow these steps:
-
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/NareshGusain/Spam_message_Classification/
    
 Usage
-Enter a text message in the input field.
-Click the "Predict" button.
-The app will provide a prediction whether the message is spam or not.
+- Enter a text message in the input field.
+- Click the "Predict" button.
+- The app will provide a prediction whether the message is spam or not.
 
 Model
-The spam SMS classification model is trained using "Bernoulli Naive bayes" and a dataset of labeled SMS messages. The pre-trained model is included in the model directory.
+- The spam SMS classification model is trained using "Bernoulli Naive bayes" and a dataset of labeled SMS messages. The pre-trained model is included in the model directory.
 
 Contributing
-Contributions to improve this web app are welcome! Feel free to fork this repository and submit pull requests.
+- Contributions to improve this web app are welcome! Feel free to fork this repository and submit pull requests.
